@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Engineering Mechanics, Lanzhou University of Technology, 2019
+* M.S. in Solid Mechanics, Brown University, 2021
+* Ph.D in Aerospace and Mechanical Engineering, University of Notre Dame, 2026 (expected)
 
 Work experience
 ======
